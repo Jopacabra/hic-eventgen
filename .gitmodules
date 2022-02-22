@@ -10,3 +10,6 @@
 [submodule "models/urqmd-afterburner"]
 	path = models/urqmd-afterburner
 	url = https://github.com/jbernhard/urqmd-afterburner.git
+[submodule "models/osu-hydro"]
+	path = models/osu-hydro
+	url = git@github.com:Jopacabra/osu-hydro
